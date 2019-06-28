@@ -1,3 +1,4 @@
 class Triangle
-  # write code here
+  def Triangle = (Kind)
+    Kind = :equilateral
 end
